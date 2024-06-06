@@ -1,1 +1,1 @@
-# Serial-manipulator-kinematic-and-dynamic-analysis
+# Serial-manipulator-kinematic-and-dynamic-analysis-MATLAB
